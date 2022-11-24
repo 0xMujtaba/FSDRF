@@ -1,2 +1,4 @@
 # FSDRF
-Feature Selection for determining Diabetic Risk Factors
+## Feature Selection for determining Diabetic Risk Factors (Honours Research Project)
+
+Although there is no cure for diabetes, various measures, such as the use of risk prediction models, may be used to reduce the harm. These techniques can help forecast undiagnosed diabetes based on a variety of recorded factors. This study used various machine-learning approaches to explore and understand the dataset. The data was cleaned and analyzed to identify the relationships between the various variables. We built and tested the performance of the Decision Tree Classifier, Logistic Regression, and Naive Bayes models. The Logistic Regression model gave the best overall scores as compared to the other two models. We also created and tested the feature selection techniques on the 3 models. The backward feature selection technique is the best feature selection method since it yields a high accuracy by using only using 5 features selected for the decision tree model as compared to 12 features for the regularised trees.
